@@ -1,19 +1,6 @@
 {
-  "data": [
-    {
-      "{": "\"name\": \"TEST\""
-    },
-    {
-      "{": "\"symbol\": \"TST\""
-    },
-    {
-      "{": "\"description\": \"\""
-    },
-    {
-      "{": "\"image\": \"https://raw.githubusercontent.com/yourgocya-eng/my-sol-token/main/Screenshot%202025-11-02%20000424.png\""
-    },
-    {
-      "{": "}"
-    }
-  ]
+  "name": "TEST",
+  "symbol": "TST",
+  "description": "Just a test token on Solana",
+  "image": "https://raw.githubusercontent.com/yourgocya-eng/my-sol-token/main/Screenshot%202025-11-02%20000424.png"
 }
